@@ -1,4 +1,4 @@
-# :+1: Code First :
+# : Code First :
 :shipit: Result
 ![CodeFirst3](https://github.com/Apolos666/CodeFirstAndDbFirst/assets/65549968/d63cc94e-4fa1-4539-a23c-a95ea4a01702)
 # :shipit: Database First
